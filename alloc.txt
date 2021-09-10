@@ -1,0 +1,5 @@
+动态分配内存
+malloc  需要强转 (int *)malloc(4 * 5)
+calloc  不需要强转 calloc(5,4)
+free  释放分配的内存
+realloc 再次分配内存
