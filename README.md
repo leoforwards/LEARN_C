@@ -1,1 +1,1 @@
-This project just for learning language C .
+# LEARN_C
